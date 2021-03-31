@@ -1,5 +1,5 @@
 # InsuranceProject
-In this Project I work on following data set:
+In this Project I work on following data:
 Dataset :healthcare_census.csv (163,065 rows, 19 columns)
 
 My complelet workflow on this data is given as :
